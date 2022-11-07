@@ -1,0 +1,1 @@
+// Crear una funcion que controle las animaciones e intentar que el ancla no se fije al hacer click en los enlaces de la navegación.(Para que al recargar la pagina no vaya al ultimo enlace seleccionado previamente.)
